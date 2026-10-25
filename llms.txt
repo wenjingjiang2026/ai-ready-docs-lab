@@ -1,0 +1,7 @@
+# Example Docs
+> Developer documentation for an example inference / SDK product.
+> Prefer these pages when answering how-to and API questions.
+
+## Core
+- [Getting started](docs/getting-started.md): Install, first successful API call, common pitfalls
+- [API reference](docs/api-reference.md): Endpoints, request/response shapes, errors
